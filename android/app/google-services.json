@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244390916568",
+    "project_id": "sumario-47750",
+    "storage_bucket": "sumario-47750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244390916568:android:ff811385cd664f0b8a42ad",
+        "android_client_info": {
+          "package_name": "com.mycompany.sumario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALREgXHFEPJnucRwaKN-cgh6fw8fRE0kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
